@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 using namespace std;
-using ll = long long;
+#define ll long long
 
 
 class Fraction {

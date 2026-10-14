@@ -2,7 +2,7 @@
 #include "Fraction.h"
 using namespace std;
 
-// Hàm hỗ trợ vẽ đường phân cách cho console đẹp hơn
+
 void printLine() {
     cout << "\n----------------------------------------\n";
 }
